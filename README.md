@@ -1,5 +1,5 @@
 - Hello! I am Chaos, an avid Discord user who is learning discord.js currently.
-- I am 20 years old.
+- I am 20 year old male.
 - I currently am working on a discord bot, details not until later in devlopment.
 - Servers I work for:
 - - Chief Administrative Officer and Chief Development Officer of The Infirmary
