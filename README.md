@@ -7,6 +7,7 @@
 - - Server Moderator of My Little Universe Offical
 - - Founder of Hoarder of Hats
 - - Admin of Mailhook Support
+- - Admin of R’mnya Academy of The Arcane
 
 <!---
 RandomChaos21/RandomChaos21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
